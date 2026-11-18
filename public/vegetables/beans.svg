@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Beans">
+  <rect width="120" height="120" rx="16" fill="#ECFDF5"/>
+  <path d="M38 40c8 6 18 28 16 48-10 0-20-20-22-40 2-4 4-6 6-8z" fill="#22C55E"/>
+  <path d="M58 36c8 8 16 30 12 50-10-2-18-22-18-42 2-4 4-6 6-8z" fill="#16A34A"/>
+  <path d="M76 42c6 8 12 26 8 44-8 0-14-18-16-36 2-4 4-6 8-8z" fill="#4ADE80"/>
+</svg>

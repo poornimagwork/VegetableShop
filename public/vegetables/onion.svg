@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Onion">
+  <rect width="120" height="120" rx="16" fill="#F3E8FF"/>
+  <ellipse cx="60" cy="70" rx="28" ry="30" fill="#A855F7"/>
+  <ellipse cx="60" cy="70" rx="18" ry="22" fill="#C084FC" opacity="0.5"/>
+  <path d="M52 42c3-10 8-14 8-14s5 4 8 14c-5-2-11-2-16 0z" fill="#86EFAC"/>
+  <path d="M60 28v12" stroke="#16A34A" stroke-width="2" stroke-linecap="round"/>
+</svg>

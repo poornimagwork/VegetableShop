@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Carrot">
+  <rect width="120" height="120" rx="16" fill="#FFEDD5"/>
+  <path d="M52 38c8 4 16 28 14 52-8 2-18-18-22-40 2-6 4-10 8-12z" fill="#F97316"/>
+  <path d="M54 42c4 2 8 16 7 30" stroke="#FB923C" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M58 34c-2-10 2-16 2-16s6 4 8 12c-4 0-7 2-10 4z" fill="#22C55E"/>
+  <path d="M64 32c4-10 10-12 10-12s2 8 0 14c-3-1-7-1-10-2z" fill="#16A34A"/>
+</svg>

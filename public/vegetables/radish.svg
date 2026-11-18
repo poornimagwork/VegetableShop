@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Radish">
+  <rect width="120" height="120" rx="16" fill="#FFF1F2"/>
+  <ellipse cx="60" cy="68" rx="20" ry="24" fill="#F43F5E"/>
+  <ellipse cx="60" cy="78" rx="12" ry="10" fill="#FFE4E6"/>
+  <path d="M52 46c2-14 6-20 8-20s4 8 4 16" stroke="#16A34A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M62 44c4-12 10-16 12-14s-2 12-4 18" stroke="#22C55E" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <ellipse cx="52" cy="62" rx="5" ry="6" fill="#FB7185" opacity="0.45"/>
+</svg>

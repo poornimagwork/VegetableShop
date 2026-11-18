@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Green Chilli">
+  <rect width="120" height="120" rx="16" fill="#F0FDF4"/>
+  <path d="M42 72c8-20 22-34 36-38 4 2 6 8 4 12-12 8-24 22-32 40-6 2-10-4-8-14z" fill="#16A34A"/>
+  <path d="M74 34c4-8 10-10 12-8-2 6-4 10-8 14-2-2-4-4-4-6z" fill="#15803D"/>
+  <ellipse cx="54" cy="62" rx="5" ry="8" fill="#4ADE80" opacity="0.4" transform="rotate(-30 54 62)"/>
+</svg>

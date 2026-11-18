@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Capsicum">
+  <rect width="120" height="120" rx="16" fill="#ECFDF5"/>
+  <path d="M44 52c0-10 8-18 16-18s10 4 12 4 6-4 14-4 16 8 16 18c0 22-10 40-22 40S44 74 44 52z" fill="#22C55E"/>
+  <path d="M58 42c4 8 8 8 12 0" stroke="#15803D" stroke-width="2" fill="none"/>
+  <rect x="66" y="28" width="4" height="12" rx="2" fill="#166534"/>
+  <ellipse cx="52" cy="58" rx="6" ry="10" fill="#86EFAC" opacity="0.4"/>
+</svg>

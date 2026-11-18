@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Spinach">
+  <rect width="120" height="120" rx="16" fill="#ECFDF5"/>
+  <path d="M60 88c0-20-14-34-22-38 2-2 6-2 10 0 2-12 10-22 18-24 0 14 6 26 10 34 8-4 14-2 16 0-10 6-16 18-16 28h-16z" fill="#16A34A"/>
+  <path d="M48 58c6 6 10 16 12 24" stroke="#86EFAC" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M68 52c-2 8-4 18-4 28" stroke="#4ADE80" stroke-width="2" fill="none" opacity="0.7"/>
+</svg>

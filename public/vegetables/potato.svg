@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Potato">
+  <rect width="120" height="120" rx="16" fill="#FEF3C7"/>
+  <ellipse cx="60" cy="64" rx="34" ry="26" fill="#D97706" transform="rotate(-18 60 64)"/>
+  <ellipse cx="50" cy="56" rx="8" ry="6" fill="#FBBF24" opacity="0.4"/>
+  <circle cx="48" cy="62" r="2.5" fill="#92400E"/>
+  <circle cx="68" cy="70" r="2" fill="#92400E"/>
+  <circle cx="72" cy="54" r="2.2" fill="#92400E"/>
+</svg>
